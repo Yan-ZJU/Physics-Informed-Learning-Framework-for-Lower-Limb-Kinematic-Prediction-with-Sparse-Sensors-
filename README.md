@@ -1,2 +1,2 @@
-# Physics-Informed-Learning-Framework-for-Lower-Limb-Kinematic-Prediction-with-Sparse-Sensors-
-Partial Code of submission "Physics-Informed Learning Framework for Lower Limb Kinematic Prediction with Sparse Sensors and its Application in Chronic Stroke"
+# Physics-Informed Learning Framework for Lower Limb Kinematic Prediction with Sparse Sensors and its Application in Chronic Stroke
+This repositories conclude partial code about gait cycle segmentation and shank ZUPT of stroke patients in the submission: "Physics-Informed Learning Framework for Lower Limb Kinematic Prediction with Sparse Sensors and its Application in Chronic Stroke" to IEEE Transactions on Neural Systems and Rehabilitation Engineering.
